@@ -14,7 +14,7 @@ class DebuggerFeatureExerciseTest {
     fun 내비게이션_실습() {
         val 삼 = 삼()
         val 오 = 5
-        assertEquals(삼 + 오, 8)
+        assertEquals(8, 삼 + 오)
 
     }
 
